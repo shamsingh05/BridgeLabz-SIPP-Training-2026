@@ -1,0 +1,1 @@
+class InsufficientBalanceException extends Exception{ InsufficientBalanceException(String m){super(m);} } public class ATMWithdrawalSystem{}

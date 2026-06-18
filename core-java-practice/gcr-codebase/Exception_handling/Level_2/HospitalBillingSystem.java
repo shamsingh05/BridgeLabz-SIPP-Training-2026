@@ -1,0 +1,1 @@
+public class HospitalBillingSystem { public static void main(String[] args){ System.out.println("Handle ArithmeticException, ArrayIndexOutOfBoundsException, NumberFormatException and custom InsufficientFundsException."); } }
